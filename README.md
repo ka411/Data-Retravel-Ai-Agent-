@@ -28,7 +28,7 @@ Perfect for:
 
 Automating customer data lookups
 
-Filtering product data on-demand
+Filtering product data on demand
 
 Supporting internal teams with quick info access via chatbot
 
