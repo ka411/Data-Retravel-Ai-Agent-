@@ -56,4 +56,4 @@ Set up OpenAI credentials and file handling settings
 Trigger the workflow via chatbot or webhook and test with sample queries
 
 🤝 Feedback
-I welcome ideas and suggestions to improve the workflow. Feel free to fork this project, open issues, or connect if you find it helpful.
+I welcome ideas and suggestions to improve the workflow. Please feel free to fix this project, open issues, or connect if you find it helpful.
