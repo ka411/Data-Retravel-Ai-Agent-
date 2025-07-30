@@ -1,5 +1,5 @@
 📂 Data-Retrieval-AI-Agent
-An intelligent n8n workflow designed to retrieve specific data from .txt, .csv, or .json files based on user-defined queries. Built to enhance data accessibility through chatbot or webhook triggers, this agent delivers filtered and relevant results instantly.
+A smart n8n workflow designed to extract targeted information from .txt, .csv, or .json files based on custom user queries. Triggered via chatbot or webhook, the agent efficiently filters and returns precise, relevant data—streamlining access and boosting responsiveness.
 
 🔍 Key Features
 ⚙️ Automated Query Processing: Extracts targeted information from uploaded files using natural language prompts.
